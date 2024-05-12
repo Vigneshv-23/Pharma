@@ -1,4 +1,3 @@
-![image](https://github.com/Vigneshv-23/Pharma/assets/110780412/c1295540-1a46-4d35-b5d3-03917e0c4867)# Project Responsive Web Design using Bootstrap
 ## Date:12.05.2024
 
 ## AIM:
