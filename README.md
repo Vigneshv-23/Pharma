@@ -403,11 +403,13 @@ product
 ```
 
 ## OUTPUT:
+![image](https://github.com/Vigneshv-23/Pharma/assets/110780412/93119c8f-d1b7-4357-8ddf-2bfcbef08042)
+![image](https://github.com/Vigneshv-23/Pharma/assets/110780412/35aa8a32-3e5c-43e2-bb54-d231bc2d21ae)
+![image](https://github.com/Vigneshv-23/Pharma/assets/110780412/25678c71-7164-4753-b79d-bde61b2cca13)
+![image](https://github.com/Vigneshv-23/Pharma/assets/110780412/787eefcf-e54e-4da6-b89a-c99344d45ba5)
 
-![image](https://github.com/Vigneshv-23/Pharma/assets/110780412/fa89193a-053a-4284-96a2-88605f4e9631)
-![image](https://github.com/Vigneshv-23/Pharma/assets/110780412/892de75a-331a-4766-aee1-aa63bcb4f263)
-![image](https://github.com/Vigneshv-23/Pharma/assets/110780412/05d52595-d313-448d-974d-f700c320826b)
-![image](https://github.com/Vigneshv-23/Pharma/assets/110780412/ab1b222f-7dd7-425b-b33f-9627f0109912)
+
+
 
 
 ## RESULT:
